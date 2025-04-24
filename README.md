@@ -32,4 +32,7 @@ crontab -e
 # Add:
 0 1 * * * /usr/bin/python3 /home/ubuntu/fetch_costs.py
 
+**Grafana Dashboard Screenshot**
+![Screenshot (91)](https://github.com/user-attachments/assets/3621a209-a0f4-450c-a155-88ddc87905d4)
+
 
